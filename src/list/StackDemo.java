@@ -1,4 +1,4 @@
-package vector;
+package list;
 
 import java.util.Stack;
 
