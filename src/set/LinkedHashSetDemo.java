@@ -11,7 +11,8 @@ public class LinkedHashSetDemo {
 		h.add("Z");
 		h.add(10);
 		h.add(null);
+		h.add(null);
 		System.out.println(h.add("Z"));
-		System.out.println(h);
+		System.out.println(h);	
 	}
 }
